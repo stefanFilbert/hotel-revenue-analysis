@@ -1,4 +1,4 @@
-#Hotel Revenue Analysis (2018 - 2020)
+# Hotel Revenue Analysis (2018 - 2020)
 
 I tried to explore the power of data analytics in unlocking insights into hotel revenue. This project is using Microsoft SQL Server to manage the dataset that can be accessed in 'SQLQuery_HotelRevenue.sql' and Power BI to create visualization and dashboard.
 
