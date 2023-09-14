@@ -12,4 +12,4 @@ As we can see on the dashboard, in 2018 to 2019 hotels experienced quite rapid r
 
 On the other hand, the market segment is dominated by online travel agents with total revenue reaching 72.14% of the market segment. Also, Transient customer give the highest revenue to hotel. And last but not least, the parking car space. According to dashboard, there are 8.69 thousand car space and due to significant decline in revenue on 2020, so there are no needed to improve hotel parking lot size.
 
-And there is my Data Analytics Project, I hope this help and give you more information about Data Analytics. If you found mistake in this post, feel free to comment down below or direct message me. Thank you.
+And there is my Data Analytics Project, I hope this help and give you more information about Data Analytics. If you found mistake in this post, feel free to direct message me. Thank you.
